@@ -1,1 +1,1 @@
-# Multiple-ways-of-deducing-Black-Scholes-Formula
+# Stochastic-differential Approach to Fin-Math
